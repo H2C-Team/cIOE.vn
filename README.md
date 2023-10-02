@@ -4,6 +4,8 @@ Tool tham khảo đáp án ioe khi gặp bài khó
 
 **Bước 1:** Cài đặt extension [tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
+![image](https://raw.githubusercontent.com/H2C-Team/cIOE.vn/main/b1.png)
+
 **Bước 2:** Nhấn vào đây để cài đặt script [cioe.user.js](https://cioe.vercel.app/cioe.user.js)
 
 
