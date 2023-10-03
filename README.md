@@ -1,5 +1,5 @@
-# 🏙️ cIOE.vn
-Tool tham khảo đáp án ioe khi gặp bài khó, FREE
+# 🏙️ cIOE.vn (FREE)
+Tool tham khảo đáp án ioe khi gặp bài khó
 ## ☃️ Hướng dẫn
 
 **Bước 1:** Cài đặt extension [tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
