@@ -1,5 +1,5 @@
 # 🏙️ cIOE.vn
-Tool tham khảo đáp án ioe khi gặp bài khó
+Tool tham khảo đáp án ioe khi gặp bài khó, FREE
 ## ☃️ Hướng dẫn
 
 **Bước 1:** Cài đặt extension [tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
@@ -14,6 +14,4 @@ Tool tham khảo đáp án ioe khi gặp bài khó
 
 ## ‼️ Lưu ý
 - Bài listening điền từ có câu có đáp án có câu không có
-- Nếu có lỗi hãy quay lại Bước 2 để cài đặt lại script hoặc liên hệ @cutcut1204
-- Mỗi tài khoản được miễn phí dùng thử 2 bài thi
-- Mua thên lượt dùng liên hệ fb.com/cutcut1204
+- Nếu có lỗi hãy quay lại Bước 2 để cài đặt lại script hoặc liên hệ fb.com/cutcut1204
