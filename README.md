@@ -15,3 +15,6 @@ Tool tham khảo đáp án ioe khi gặp bài khó
 ## ‼️ Lưu ý
 - Bài listening điền từ có câu có đáp án có câu không có
 - Nếu có lỗi hãy quay lại Bước 2 để cài đặt lại script hoặc liên hệ fb.com/cutcut1204
+## ⚠ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
+- Sử dụng hay không thì tùy bạn.
+- Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3, điều này sẽ giúp bạn an toàn. BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC.
